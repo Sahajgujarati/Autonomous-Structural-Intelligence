@@ -28,13 +28,3 @@ An advanced AI-powered pipeline that instantly converts 2D architectural floor p
 * LLM Integration (Claude/OpenAI Vision & Logic)
 
 ---
-
-## 🚀 How to Run Locally
-
-Follow these steps to spin up the project on your local machine.
-
-### 1. Backend Setup
-Navigate to the backend directory and install the Python dependencies:
-```bash
-cd backend
-pip install -r requirements.txt
